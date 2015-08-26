@@ -3,24 +3,18 @@
 
   vars:
     applications:
-      - alfred
-      - boxer
-      - cord
       - firefox
       - google-chrome
       - gpgtools
-      - handbrake
       - hipchat
       - kdiff3
       - libreoffice
       - limechat
       - phpstorm
       - mou
-      - parallels
       - robomongo
       - sequel-pro
       - sonos
-      - spotify
       - the-unarchiver
       - transmit
       - tunnelblick
