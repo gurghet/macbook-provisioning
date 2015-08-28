@@ -7,35 +7,35 @@
       - google-chrome
       - gpgtools
       - hipchat
-      - kdiff3
-      - libreoffice
-      - limechat
-      - phpstorm
-      - mou
       - robomongo
       - sequel-pro
-      - sonos
       - the-unarchiver
       - transmit
-      - tunnelblick
       - vagrant
       - virtualbox
       - vlc
-    application_dir: /Applications
+    application_dir: /Users/gurhget/Applications
     brews:
       - ack
+      - ant
       - chromedriver
-      - docker
-      - hub
-      - ios-webkit-debug-proxy
+      - emacs
+      - h2
+      - ivy
+      - lynx
+      - markdown
+      - python
+      - scala
+      - tree
       - rsync
+      - wget
       - zsh
     caskroom_dir: /usr/local/caskroom
     dotfiles_dir: /Users/craig/Code/dotfiles
-    email: EMAIL_HERE
-    github_username: craigmarvelley
-    home_dir: /Users/craig
-    name: Craig Marvelley
+    email: gurghet@gmail.com
+    github_username: gurghet
+    home_dir: /Users/gurghet
+    name: Andrea Passaglia
     zsh_path: /usr/local/bin/zsh
 
   tasks:
