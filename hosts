@@ -1,2 +1,2 @@
--[osx-dev-machine]
+-[bystro]
 -localhost ansible_connection=local
